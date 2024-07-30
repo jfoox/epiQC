@@ -1,6 +1,12 @@
-# epiqc scripts
+# Data Availability
 
-Scripts for data processing, analysis and visualization of EpiQC methylation data. 
+All raw data is available on SRA using accession IDs SRR13050956-SRR13051274.
+
+Please note that Oxford Nanopore long read FAST5s are available separately, using accession IDs SRR27010831-SRR27010837.
+
+# Code
+
+Data processing, analysis and visualization of EpiQC methylation data. 
 
 
 ### SLURM scripts
